@@ -47,7 +47,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        background: url("./sakura.png");
+        background: url("/sakura.png");
         background-size: clamp(200px, 300%, 1200px);
     }
 </style>

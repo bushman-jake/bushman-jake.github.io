@@ -36,7 +36,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        background-image: url("./pattern.png");
+        background-image: url("/pattern.png");
         background-blend-mode: multiply;
         background-size: clamp(100px, 100%, 600px);
     }
