@@ -3,7 +3,7 @@
         <div class="card">
             <h1>Success!</h1>
             <hr />
-            <p>May luck be with you on your onward journey. がんばって(笑)!</p>
+            <p>Congratulations, Bushman! May luck be with you on your onward journey. がんばって(笑)!</p>
             <br />
             <p>As a token of our gratitide, accept this limerick:</p>
             <br />
